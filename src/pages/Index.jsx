@@ -1,9 +1,10 @@
 import React from 'react'
+import PinyinDiv from '../components/PinyinDiv'
 
 const Index = () => {
   return (
     <div>
-        test index
+      <PinyinDiv />
     </div>
   )
 }
