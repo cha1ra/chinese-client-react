@@ -3,7 +3,7 @@ import PinyinDiv from '../components/PinyinDiv'
 import { TextField } from '@material-ui/core'
 
 const Index = () => {
-  const [text, setText] = useState('好的')
+  const [text, setText] = useState('电视')
   return (
     <div>
       <TextField
